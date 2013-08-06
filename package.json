@@ -1,0 +1,19 @@
+{
+  "name": "test-b",
+  "description": "Origami test module B",
+	"version": "1.0.0",
+	"bugs": "andrew.betts@ft.com"
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/triblondon/test-b.git"
+	},
+	"files": [
+		"/src",
+		"package.json"
+	],
+	"main": "/src/js/main.js",
+	"roots": {
+		"css": "/src/sass/style.scss",
+		"js": "/src/js/main.js"
+	}
+}
