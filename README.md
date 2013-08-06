@@ -1,4 +1,3 @@
-test-b
-======
+# Test B
 
-Origami test module B
+This module has CSS and JavaScript that depend on module C
