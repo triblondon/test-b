@@ -7,6 +7,6 @@
     "css": "/src/sass/style.sass"
   },
   "dependencies": {
-    "test-c": "git://github.com/triblondon/test-c.git#1.x"
+    "test-c": "git://github.com/triblondon/test-c.git#<1.4"
   }
 }
