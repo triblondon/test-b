@@ -1,5 +1,6 @@
 var c = new require('test-c');
 var my = new require('othermodule.js');
+var d3 = new require('d3');
 
 exports.run = function() {
 
